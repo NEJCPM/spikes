@@ -1,0 +1,22 @@
+{
+  "name": "low-latency-spike-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEJCPM/spikes.git"
+  },
+  "author": "William Yucciolino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEJCPM/spikes/issues"
+  },
+  "homepage": "https://github.com/NEJCPM/spikes#readme",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.391.0"
+  }
+}
