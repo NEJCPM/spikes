@@ -7,4 +7,4 @@ execution:
 scenarios:
   quick-test:
     requests:
-      - http://ec2-3-94-134-15.compute-1.amazonaws.com:3000
+      - http://ec2-3-94-134-15.compute-1.amazonaws.com:3001

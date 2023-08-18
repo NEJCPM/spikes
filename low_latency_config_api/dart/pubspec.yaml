@@ -1,0 +1,6 @@
+name: low_latency_api_dart
+
+environment:
+  sdk: "^3.0.0"
+dependencies:
+  aws_dynamodb_api: ^2.0.0
